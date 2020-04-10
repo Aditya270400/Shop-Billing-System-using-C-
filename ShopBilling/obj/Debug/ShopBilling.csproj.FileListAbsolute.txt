@@ -1,0 +1,10 @@
+C:\Users\Aditya\source\repos\ShopBilling\ShopBilling\bin\Debug\ShopBilling.exe.config
+C:\Users\Aditya\source\repos\ShopBilling\ShopBilling\bin\Debug\ShopBilling.exe
+C:\Users\Aditya\source\repos\ShopBilling\ShopBilling\bin\Debug\ShopBilling.pdb
+C:\Users\Aditya\source\repos\ShopBilling\ShopBilling\obj\Debug\ShopBilling.csprojAssemblyReference.cache
+C:\Users\Aditya\source\repos\ShopBilling\ShopBilling\obj\Debug\ShopBilling.Form1.resources
+C:\Users\Aditya\source\repos\ShopBilling\ShopBilling\obj\Debug\ShopBilling.Properties.Resources.resources
+C:\Users\Aditya\source\repos\ShopBilling\ShopBilling\obj\Debug\ShopBilling.csproj.GenerateResource.cache
+C:\Users\Aditya\source\repos\ShopBilling\ShopBilling\obj\Debug\ShopBilling.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\source\repos\ShopBilling\ShopBilling\obj\Debug\ShopBilling.exe
+C:\Users\Aditya\source\repos\ShopBilling\ShopBilling\obj\Debug\ShopBilling.pdb
